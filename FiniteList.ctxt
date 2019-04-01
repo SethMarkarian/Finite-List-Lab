@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FiniteList
+comment1.params=x
+comment1.target=FiniteList(int)
+comment2.params=obj
+comment2.target=boolean\ add(java.lang.Object)
+comment3.params=index\ obj
+comment3.target=void\ add(int,\ java.lang.Object)
+numComments=4
